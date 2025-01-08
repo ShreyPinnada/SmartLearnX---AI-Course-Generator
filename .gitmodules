@@ -1,0 +1,3 @@
+[submodule "smartx"]
+	path = smartx
+	url = https://github.com/ShreyPinnada/SmartLearnX--AI-Course-Generator.git
